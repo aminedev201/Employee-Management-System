@@ -1,0 +1,32 @@
+
+.form-control {
+    border-radius: 10px;
+}
+
+.form-control ,.form-control:focus{
+    border: 1px solid #707070;
+    background-color: #484a54;
+    color: white;
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
+
+.card{
+    border: none;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+.login-admin{
+    width: 500px;
+    margin: 100px auto;
+}
+
+.msg-error{
+    font-size: 15px;
+}
+
