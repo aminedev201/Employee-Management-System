@@ -3,8 +3,8 @@
 define('HOST_NAME','localhost:3306');
 define('DB_TYPE','mysql');
 define('DB_NAME','employes_ms_db');
-define('DB_PASS','devowfs');
-define('DB_USER','aminedev');
+define('DB_PASS','root');
+define('DB_USER','root');
 define('DB_CHARSET','utf8mb4');
 //--------------------------------------------------- ROOTS ---------------------------------------------------
 define('ROOT','http://localhost/Employee-Management-System/');
